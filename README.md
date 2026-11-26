@@ -4,8 +4,8 @@
 
 # Rename the Planet
 
-A make.fun entry for the [Rename the Planet](https://make.fun/bounty/u-motasimfuad-rename-the-planet-094b0369) bounty: one funny new name for a planet in our solar system, plus the why, in a single line under 200 characters. The program `main.py` writes a single 123-character line — Uranus, knocked on its side, rebranded as the office intern who never recovered from day one — to `/output/entry.txt`:
+A make.fun entry for the [Rename the Planet](https://make.fun/bounty/u-motasimfuad-rename-the-planet-094b0369) bounty: one funny new name for a planet in our solar system, plus the why, in a single line under 200 characters. The program `main.py` writes a single 111-character line — Mars, red and uninhabitable, rebranded as the landlord still charging rent — to `/output/entry.txt`:
 
-> Uranus, renamed 'The Intern': tipped over on its first day and has been rolling sideways around the Sun ever since, unpaid.
+> Mars, renamed 'The Landlord': red, dusty, completely uninhabitable — and still charging $2,000 a month in rent.
 
 Run it: `python3 main.py`
