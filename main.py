@@ -8,7 +8,7 @@ import os
 
 LINE = (
     "Uranus, renamed 'The Intern': tipped over on its first day and has "
-    "been rolling sideways around the Sun ever since."
+    "been rolling sideways around the Sun ever since, unpaid."
 )
 
 
