@@ -2,13 +2,17 @@
 
 Writes one funny single-line planet rename to /output/entry.txt.
 Deterministic: no input, no randomness, no network.
+
+Round 2 angle: Mars as the landlord — red, dusty, uninhabitable, yet
+still charging rent. Fresh vs round 1 (Uranus as the unpaid intern):
+a different planet and a housing joke, not an office joke.
 """
 
 import os
 
 LINE = (
-    "Uranus, renamed 'The Intern': tipped over on its first day and has "
-    "been rolling sideways around the Sun ever since, unpaid."
+    "Mars, renamed 'The Landlord': red, dusty, completely uninhabitable "
+    "\u2014 and still charging $2,000 a month in rent."
 )
 
 
